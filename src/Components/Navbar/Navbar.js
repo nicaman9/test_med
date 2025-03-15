@@ -1,4 +1,4 @@
-// Nav Frame Component
+import "./Navbar.css";
 import React from 'react';
 
 const Nav = () => {
