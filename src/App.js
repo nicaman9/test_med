@@ -7,7 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // Import custom Navbar component
 import Navbar from './Components/Navbar/Navbar';
 
-import Landing_page from './Components/Landing_Page/Landing_Page.jsx';
+import Landing_page from './Components/Landing_Page/Landing_Page.js';
 
 // Function component for the main App
 function App() {

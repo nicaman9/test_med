@@ -60,17 +60,19 @@ const Nav = () => {
 
           {/* Sign Up Text */}
           <div className="shape text text278-d3633a0d17ad">
-            <div className="text-node-html" id="html-text-node-10d70911-e5ff-808b-8005-d3633a0d17ad" data-x="2048.981435242702" data-y="1240.1517979035975">
-              <div className="root rich-text root-0" style={{ display: 'flex', whiteSpace: 'break-spaces', alignItems: 'flex-start' }}>
-                <div className="paragraph-set root-0-paragraph-set-0">
-                  <p className="paragraph root-0-paragraph-set-0-paragraph-0" dir="auto">
-                    <span className="text-node root-0-paragraph-set-0-paragraph-0-text-0" style={{ color: 'rgba(220, 225, 233, 1)', fontSize: '16px', fontFamily: 'Roboto', fontWeight: 500 }}>
-                      Sign Up
-                    </span>
-                  </p>
+            <a href="./Sign_up">
+              <div className="text-node-html" id="html-text-node-10d70911-e5ff-808b-8005-d3633a0d17ad" data-x="2048.981435242702" data-y="1240.1517979035975">
+                <div className="root rich-text root-0" style={{ display: 'flex', whiteSpace: 'break-spaces', alignItems: 'flex-start' }}>
+                  <div className="paragraph-set root-0-paragraph-set-0">
+                    <p className="paragraph root-0-paragraph-set-0-paragraph-0" dir="auto">
+                      <span className="text-node root-0-paragraph-set-0-paragraph-0-text-0" style={{ color: 'rgba(220, 225, 233, 1)', fontSize: '16px', fontFamily: 'Roboto', fontWeight: 500 }}>
+                        Sign Up
+                      </span>
+                    </p>
+                  </div>
                 </div>
               </div>
-            </div>
+            </a>
           </div>
         </div>
 
